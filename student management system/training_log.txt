@@ -1,0 +1,15 @@
+Training Date: 2025-05-06 00:38:17
+
+Training completed successfully!
+
+Total images processed: 100
+Successfully trained with: 100 images
+Failed images: 0
+Number of unique IDs: 1
+
+
+
+=== DETAILS ===
+
+Images per ID:
+ID 3456: 100 images
